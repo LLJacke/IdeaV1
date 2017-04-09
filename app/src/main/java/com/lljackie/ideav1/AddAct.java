@@ -28,8 +28,6 @@ public class AddAct extends AppCompatActivity implements View.OnClickListener {
         et_3 = (EditText) findViewById(R.id.et_3);
         bt_upload = (Button) findViewById(R.id.bt_upload);
 
-
-
         bt_upload.setOnClickListener(this);
     }
 
